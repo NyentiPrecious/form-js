@@ -1,0 +1,12 @@
+.container{
+     background-color: brown;
+    height: 400px;
+      
+}
+.nav{
+    background-color: black;
+    height: 100px;
+    color: white;
+    padding-left: 20rem;
+    padding-top: 5rem;
+}
