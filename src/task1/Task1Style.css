@@ -1,0 +1,65 @@
+.navcontainer{
+    display: flex;
+    width: 100vw;
+    background-color: aqua;
+    align-items: center;
+}
+.logo{
+    width: 30px;
+    height: 30px;
+    background-color: blue;
+     margin: 0 2rem; 
+}
+.navlist{
+    display: flex;
+    margin-left: auto;
+    margin-right: 5rem;
+}
+.navlist div{
+    padding: 1rem 2rem;
+    border-left: 1px solid rgb(99, 99, 99);
+}
+.navlist div:last-child{
+    /* padding: 1rem,2rem; */
+    border-right: 1px solid rgb(99, 99, 99);
+}
+.bluesection{
+    background-color: blueviolet;
+    padding: 1rem 7rem;
+    height: 40px;
+    color: white;
+}
+.section-container{
+    display: flex;
+    min-height: 50vh;
+    gap: 1%;
+    margin: 2rem 0;
+     justify-content: center;
+}
+.leftsection{
+    width: 20%;
+    background-color: burlywood;
+    
+}
+.rightsection{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-auto-rows: min-content;
+    width: 60%;
+    gap: 1rem;
+    background-color: blanchedalmond;
+}
+.img-section{
+     width: 50px;
+    height: 40px; 
+}
+.card{
+    display: flex;
+    padding: 0.5rem;
+    background-color: rgb(219, 213, 213);
+    border-radius: 7px;
+    gap: 1rem;
+}
+.carret{
+    font-weight: bolder;
+}
