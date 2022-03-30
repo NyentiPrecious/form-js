@@ -2,6 +2,7 @@ import Form from './Forms'
 import Todo from './TodoList'
 import Task from './Task';
 import Task1 from './task1/index'
+import Task2 from './Task2/index2';
 
 
 // // import Name from './components/Name.jsx';
@@ -94,7 +95,9 @@ function App() {
 
      {/* <Task></Task> */}
 
-     <Task1></Task1>
+     {/* <Task1></Task1> */}
+
+     <Task2></Task2>
 
     </div>
   )

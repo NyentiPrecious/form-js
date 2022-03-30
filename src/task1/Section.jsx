@@ -8,7 +8,7 @@ export default function Section({columns}) {
     const list = [
 
         {img: encodeURIComponent(cherries), firstText:'First Text', secondText:'Second Text'},
-         {img: cherries, firstText:'First Text', secondText:'Second Text'},
+        {img: cherries, firstText:'First Text', secondText:'Second Text'},
         {img: cherries, firstText:'First Text', secondText:'Second Text'},
         {img: cherries, firstText:'First Text', secondText:'Second Text'},
         {img: cherries, firstText:'First Text', secondText:'Second Text'},

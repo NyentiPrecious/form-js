@@ -5,7 +5,7 @@ import './Task1Style.css'
 export default function Task1(params) {
     return(
         <div>
-            <Navbar></Navbar>
+            <Navbar></Navbar>                                                                                                                                                                                                                                      
 
             <Section columns={4}></Section>
             <Section columns={3}></Section>
