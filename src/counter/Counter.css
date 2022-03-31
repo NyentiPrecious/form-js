@@ -1,0 +1,19 @@
+button{
+    background-color: rgb(35, 35, 233);
+    color: white;
+    margin: 1rem;
+    width: 100px;
+    height: 40px;
+}
+.card{
+    margin-left: 25rem;
+    margin-top: 8rem;
+}
+h1{
+    font-size: xxx-large;
+    margin-left: 2rem;
+}
+h2{
+    font-size: xxx-large;
+    margin-left: 11rem;
+}
